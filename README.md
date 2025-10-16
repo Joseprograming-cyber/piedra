@@ -1,1 +1,1 @@
-# piedra
+# piedra papel y tijera
